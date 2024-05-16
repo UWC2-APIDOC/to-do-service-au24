@@ -1,0 +1,13 @@
+on: workflow_dispatch
+name: Manual broken link check
+
+jobs:
+  check:
+    name: Broken Link Check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Broken link check
+        uses: technote-space/broken-link-checker-action@v2
+        with:
+          TARGET: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+          recursive: true
