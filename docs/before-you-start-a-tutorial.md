@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: default
+nav_order: 2
 ---
 
 # Before you start a tutorial
