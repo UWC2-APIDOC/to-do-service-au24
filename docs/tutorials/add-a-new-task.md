@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: default
+nav_order: 1
+parent: Tutorials
 ---
 
 # Tutorial: Add a new task

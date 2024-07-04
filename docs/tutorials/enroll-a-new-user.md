@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: default
+parent: Tutorials
+nav_order: 2
 ---
 
 # Tutorial: Enroll a new user

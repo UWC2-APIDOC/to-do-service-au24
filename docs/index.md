@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: default
+nav_order: 1
 ---
 
 # To-Do service API

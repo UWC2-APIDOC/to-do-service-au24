@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: default
+parent: user resource
+nav_order: 2
 ---
 
 # Get user by ID
