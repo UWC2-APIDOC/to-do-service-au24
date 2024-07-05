@@ -20,7 +20,7 @@ long-term support (LTS version of the operating system).
 * The following software on your development system:
     * [Git](https://docs.github.com/en/get-started/quickstart/set-up-git) (for the command line)
     * [GitHub Desktop](https://desktop.github.com) (optional)
-    * A fork of the [To-Do-Service repo](https://github.com/UWC2-APIDOC/to-do-service)
+    * A fork of the [To-Do-Service repo](https://github.com/UWC2-APIDOC/to-do-service-au24)
     * A current/LTS version of `node.js`
     * A current version of [json-server](https://www.npmjs.com/package/json-server)
     * A current copy of the database file. You can get this by syncing your fork.
@@ -31,13 +31,13 @@ long-term support (LTS version of the operating system).
 
 To test your development system:.
 
-1. Create and checkout a test branch of your fork of the To-Do-service repo. Your `GitHub repo workspace` is the directory that contains your fork of the `to-do-service` repo.
+1. Create and checkout a test branch of your fork of the To-Do-service repo. Your `GitHub repo workspace` is the directory that contains your fork of the `to-do-service-au24` repo.
 
     ```shell
     cd <your GitHub repo workspace>
     ls
     # (see the to-do-service directory in the list)
-    cd to-do-service
+    cd to-do-service-au24
     git checkout -b tutorial-test
     cd api
     json-server -w to-do-db-source.json
