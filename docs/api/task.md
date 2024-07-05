@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+
 # `task` resource
 
 Base endpoint:
@@ -13,7 +14,7 @@ Base endpoint:
 Contains information about tasks stored for the users of the service.
 
 To have a task in the service, the user must be added to
-the service first. Learn more about the [user resource](user.md). 
+the service first. Learn more about the [user resource](user.md).
 
 ## Resource properties
 

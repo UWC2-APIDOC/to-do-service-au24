@@ -11,7 +11,7 @@ Expect this tutorial to take about 15 minutes to complete.
 
 ## Before you start
 
-Make sure you've completed the [Before you start a tutorial](before-you-start-a-tutorial) topic on the development system you'll use for the tutorial.
+Make sure you've completed the [Before you start a tutorial](../before-you-start-a-tutorial.md) topic on the development system you'll use for the tutorial.
 
 ## Add a new task
 

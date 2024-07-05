@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Before you  start a tutorial
+# Before you start a tutorial
 
 These are the steps you must do before you can run
 the tutorials for the **To-Do service**.
@@ -81,4 +81,4 @@ Some common situations that cause errors include:
 4. A required software component isn't up to date.
 
 If you see the list of users from the service, you're ready to do
-the tutorials.
+the [Tutorials](tutorials.md).
