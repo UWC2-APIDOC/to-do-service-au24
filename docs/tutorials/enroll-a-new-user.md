@@ -15,7 +15,7 @@ Make sure you've completed the [Before you start a tutorial](../before-you-start
 
 ## Enroll a new user
 
-Enrolling a new user in the service requires that you add (`POST`) the details of a new [`user`](../api/user) resource to the service.
+Enrolling a new user in the service requires that you add (`POST`) the details of a new [`user`](../api/user.md) resource to the service.
 
 To enroll a new user:
 

@@ -24,8 +24,8 @@ First, do this tutorial to set up your development system for these tutorials. Y
 
 After your system is ready, these tutorials show you how to perform common tasks.
 
-* [Enroll a new user](tutorials/enroll-a-new-user)
-* [Add a new task](tutorials/add-a-new-task)
+* [Enroll a new user](tutorials/enroll-a-new-user.md)
+* [Add a new task](tutorials/add-a-new-task.md)
 * [Change the due-date of a task _(coming soon)_](#tutorials)
 * [Delete a task _(coming soon)_](#tutorials)
 
@@ -40,5 +40,5 @@ on the installation of the service.
 When run locally for testing, the `{base_url}` is
 generally `http://localhost:3000`.
 
-* [user resource](api/user)
-* [task resource](api/task)
+* [user resource](api/user.md)
+* [task resource](api/task.md)
