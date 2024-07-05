@@ -4,7 +4,7 @@ layout: page
 
 # Get user by ID
 
-Returns an array of  [`user`](user) objects that contains only the user specified by the `id` parameter, if it exists.
+Returns an array of  [`user`](user.md) objects that contains only the user specified by the `id` parameter, if it exists.
 
 ## URL
 

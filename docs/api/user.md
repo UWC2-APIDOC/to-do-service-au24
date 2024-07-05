@@ -39,5 +39,5 @@ Sample `user` resource
 
 ## READ
 
-* [Get all users](users-get-all-users)
-* [Get users by ID](users-get-user-by-id)
+* [Get all users](users-get-all-users.md)
+* [Get users by ID](users-get-user-by-id.md)
