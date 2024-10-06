@@ -1,6 +1,16 @@
 # to-do-service
 
-REST API Sample for shared documentation practice
+To-Do Service README
+
+This file is an example README document.
+
+It is a REST API sample for shared documentation practice.
+
+This is my third example line,
+
+and this is my fourth.
+
+
 
 For the REST API docs, see [The To-Do Service docs](https://uwc2-apidoc.github.io/to-do-service-au24/).
 
