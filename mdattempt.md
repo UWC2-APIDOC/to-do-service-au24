@@ -8,3 +8,5 @@
 ### Disadvantages
 * The lack of formatting flexibility can hinder efforts at creativity in documentation.
 * You can't see what your formatting looks like as you're creating it; you need to commit changes and check on it.
+
+![alt text](https://www.logo.wine/a/logo/Markdown/Markdown-Logo.wine.svg)
