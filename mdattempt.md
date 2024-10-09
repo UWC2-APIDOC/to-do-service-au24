@@ -1,4 +1,4 @@
-# Markdown as documentation notation
+# ![alt text](https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png) Markdown as documentation notation
 
 ### Advantages
 * Markdown language seems straightforward. There are many guides you can easily reference, [like this one](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)!
@@ -8,5 +8,3 @@
 ### Disadvantages
 * The lack of formatting flexibility can hinder efforts at creativity in documentation.
 * You can't see what your formatting looks like as you're creating it; you need to commit changes and check on it.
-
-![alt text](https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png)
