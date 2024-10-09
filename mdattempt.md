@@ -9,4 +9,4 @@
 * The lack of formatting flexibility can hinder efforts at creativity in documentation.
 * You can't see what your formatting looks like as you're creating it; you need to commit changes and check on it.
 
-![alt text](https://alexdunn.org/wp-content/uploads/2017/02/xamagonmarkdown.png)
+![alt text](https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png)
