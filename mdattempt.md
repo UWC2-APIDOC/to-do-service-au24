@@ -1,7 +1,7 @@
 # Markdown as documentation notation
 
 ### Advantages
-* Markdown language seems straightforward. There are many guides you can easily reference, [like this one](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Markdown language seems straightforward. There are many guides you can easily reference, [like this one](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)!
 * Because the formatting is so simple, documentation tends to be less noisy and easier to digest.
 * Since it uses plain text, it's compatible with various softwares and file types.
 ---
