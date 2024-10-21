@@ -1,6 +1,6 @@
 # Code examples
 
-**Author:** \<replace with your name\>
+**Author:** \<Christine Joyce\>
 
 ## cURL example
 
