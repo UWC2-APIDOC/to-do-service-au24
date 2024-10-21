@@ -1,6 +1,6 @@
 # Code examples
 
-**Author:** \<Christine Joyce\>
+**Author:** Christine Joyce
 
 ## cURL example
 
