@@ -14,6 +14,8 @@ subscribers can post tasks and receive reminders of those tasks.
 
 Here are some more overview pages that explain the To-Do Service and how to get started.
 
+* [Levi Beverly](overview-levibeverly.md)
+
 ## Quickstart
 
 [Post your first task _(coming soon)_](#quickstart) with the To-Do service to see how easy it is to use!
