@@ -1,0 +1,20 @@
+{
+  "Pepsi Sodas": [
+    {
+      "Name": "Crush",
+      "Color": "various",
+      "Flavor profile": "fruity",
+      "Calories per serving": "160",
+      "id": 1
+    }
+  ],
+  "Coca Cola Sodas": [
+    {
+      "Name": "Sprite",
+      "Color": "clear",
+      "Flavor profile": "fruity",
+      "Calories per serving": "140",
+      "id": 1
+    }
+  ]
+}
