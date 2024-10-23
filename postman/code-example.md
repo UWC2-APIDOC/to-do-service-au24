@@ -4,7 +4,7 @@
 
 ## cURL example
 
-\<replace with a description of the example\>
+Retrieve a task in the to-do list by its user ID.
 
 ### cURL command
 
@@ -27,7 +27,7 @@ curl http://localhost:3000/tasks/2
 
 ## Postman example
 
-\<replace with a description of the example\>
+Retrieve a user by their user ID.
 
 ### Request
 
