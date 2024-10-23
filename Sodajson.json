@@ -1,5 +1,5 @@
 {
-  "Pepsi Sodas": [
+  "Pepsi_Sodas": [
     {
       "Name": "Crush",
       "Color": "various",
@@ -8,7 +8,7 @@
       "id": 1
     }
   ],
-  "Coca Cola Sodas": [
+  "Coke_Sodas": [
     {
       "Name": "Sprite",
       "Color": "clear",
