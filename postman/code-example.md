@@ -9,13 +9,20 @@
 ### cURL command
 
 ```shell
-<replace with the command line used>
+curl http://localhost:3000/tasks/2
 ```
 
 ### cURL response
 
 ```shell
-<replace with the response>
+{
+  "user_id": 1,
+  "title": "Piano recital",
+  "description": "Daughter's first concert appearance",
+  "due_date": "2024-04-02T15:00",
+  "warning": "-30",
+  "id": 2
+}
 ```
 
 ## Postman example
