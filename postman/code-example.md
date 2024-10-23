@@ -34,11 +34,16 @@ curl http://localhost:3000/tasks/2
 **Method**:
 
 ```shell
-<replace with the request used for this example>
+{base_url}/users/2
 ```
 
 ### Postman response
 
 ```shell
-<replace with the response>
+{
+    "last_name": "Jones",
+    "first_name": "Jill",
+    "email": "j.jones@example.com",
+    "id": 2
+}
 ```
