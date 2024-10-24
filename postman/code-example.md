@@ -15,7 +15,13 @@
 ### cURL response
 
 ```shell
-<replace with the response>
+{
+    "Name": "Crush",
+    "Color": "various",
+    "Flavor profile": "fruity",
+    "Calories per serving": "160",
+    "id": 1
+  }
 ```
 
 ## Postman example
