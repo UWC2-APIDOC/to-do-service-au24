@@ -4,7 +4,7 @@
 
 ## cURL example
 
-\<replace with a description of the example\>
+Requesting different Pepsi or Coke branded sodas.
 
 ### cURL command
 
