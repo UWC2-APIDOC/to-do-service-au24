@@ -1,6 +1,6 @@
 # Code examples
 
-**Author:** \<replace with your name\>
+**Author:** Christine Joyce
 
 ## cURL example
 
@@ -9,7 +9,7 @@
 ### cURL command
 
 ```shell
-<replace with the command line used>
+ curl http://localhost:3000/Pepsi_Sodas
 ```
 
 ### cURL response
