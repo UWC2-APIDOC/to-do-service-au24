@@ -4,7 +4,7 @@
 
 ## cURL example
 
-Requesting different Pepsi or Coke branded sodas.
+Requesting a Pepsi branded soda.
 
 ### cURL command
 
@@ -26,7 +26,7 @@ Requesting different Pepsi or Coke branded sodas.
 
 ## Postman example
 
-\<replace with a description of the example\>
+Requesting a Coke branded soda.
 
 ### Request
 
