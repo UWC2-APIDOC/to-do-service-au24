@@ -33,11 +33,17 @@ Requesting a Coke branded soda.
 **Method**:
 
 ```shell
-<replace with the request used for this example>
+{{base_url}}Coke_Sodas
 ```
 
 ### Postman response
 
 ```shell
-<replace with the response>
+ {
+        "Name": "Sprite",
+        "Color": "clear",
+        "Flavor profile": "fruity",
+        "Calories per serving": "140",
+        "id": 1
+    }
 ```
