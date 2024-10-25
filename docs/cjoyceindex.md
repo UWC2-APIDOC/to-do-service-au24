@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # To-Do service API
 
 Organize your life with To-Do API! You can use this cloud-hosted to-do list to schedule your tasks and events, and receive helpful reminders at your chosen time!
