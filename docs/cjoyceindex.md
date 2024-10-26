@@ -27,5 +27,5 @@ on the installation of the service.
 generally `http://localhost:3000`.
 
 ### Resource docs
-* [user resource](api/user.md)
-* [task resource](api/task.md)
+* [User resource](api/user.md)
+* [Task resource](api/task.md)
