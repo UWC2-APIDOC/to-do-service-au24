@@ -31,5 +31,3 @@ generally `http://localhost:3000`.
 ### Resource docs
 * [user resource](api/user.md)
 * [task resource](api/task.md)
-
-[Licensing](license.md)
