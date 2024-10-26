@@ -1,7 +1,8 @@
-# ![alt text](https://www.dropbox.com/scl/fi/pcfd41v6eaqpmbsyv52sh/Screenshot-2024-10-25-at-7.44.45-PM.png?rlkey=axqwfpxqh82ldoj6v1hnvhsb1&st=g6zumn4m&dl=0)
 # To-Do service API
 
 Organize your life with To-Do API! You can use this cloud-hosted to-do list to schedule your tasks and events, and receive helpful reminders at your chosen time!
+
+## Tutorials
 
 
 ## Quickstart
@@ -17,6 +18,15 @@ First, do this tutorial to set up your development system for these tutorials. Y
 * [Before you start a tutorial](before-you-start-a-tutorial.md)
 
 After your system is ready, these tutorials show you how to perform common tasks.
+
+<details><summary>Tutorials</summary>
+
+* [Enroll a new user](tutorials/enroll-a-new-user.md)
+* [Add a new task](tutorials/add-a-new-task.md)
+* [Change the due-date of a task _(coming soon)_](#tutorials)
+* [Delete a task _(coming soon)_](#tutorials)
+
+</details>
 
 * [Enroll a new user](tutorials/enroll-a-new-user.md)
 * [Add a new task](tutorials/add-a-new-task.md)
