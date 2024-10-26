@@ -18,14 +18,14 @@ Learn how to do common tasks with the To-Do service using our tutorials!
 
 ## API reference information
 
-Please note the following:
+### Resource docs
+* [User resource](api/user.md)
+* [Task resource](api/task.md)
+
+### Please note the following:
 
 * The API reference docs refer to a `{base_url}` when they
 refer to the URL of a resource. The `{base_url}` value depends
 on the installation of the service.
 * When run locally for testing, the `{base_url}` is
 generally `http://localhost:3000`.
-
-### Resource docs
-* [User resource](api/user.md)
-* [Task resource](api/task.md)
