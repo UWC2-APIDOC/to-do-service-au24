@@ -17,7 +17,7 @@ First, do this tutorial to set up your development system for these tutorials. Y
 
 * [Before you start a tutorial](before-you-start-a-tutorial.md)
 
-After your system is ready, these tutorials show you how to perform common tasks.
+After your system is ready, the tutorials listed in the below drop-down show you how to perform common tasks:
 
 <details><summary>Tutorials</summary>
 
