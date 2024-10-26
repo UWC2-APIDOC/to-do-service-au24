@@ -18,9 +18,7 @@ Learn how to do common tasks with in the To-Do service.
 
 </details>
 
-## API reference docs
-
-Detailed descriptions of the service's resources.
+## API reference information
 
 The API reference docs refer to a `{base_url}` when they
 refer to the URL of a resource. The `{base_url}` value depends
