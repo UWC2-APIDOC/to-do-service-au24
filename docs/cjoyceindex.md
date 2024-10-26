@@ -28,6 +28,6 @@ on the installation of the service.
 * When run locally for testing, the `{base_url}` is
 generally `http://localhost:3000`.
 
-# Reference docs
+### Resource docs
 * [user resource](api/user.md)
 * [task resource](api/task.md)
