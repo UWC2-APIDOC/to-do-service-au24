@@ -13,8 +13,8 @@ Learn how to do common tasks with the To-Do service using our tutorials!
 
 * [Enroll a new user](tutorials/enroll-a-new-user.md)
 * [Add a new task](tutorials/add-a-new-task.md)
-* [Change the due-date of a task _(coming soon)_](#tutorials)
-* [Delete a task _(coming soon)_](#tutorials)
+* [Change the due-date of a task _(coming soon)_]
+* [Delete a task _(coming soon)_]
 
 </details>
 
