@@ -11,7 +11,7 @@ Organize your life with To-Do API! You can use this cloud-hosted to-do list to s
 Learn how to do common tasks with in the To-Do service.
 
 1. Use [this guide](before-you-start-a-tutorial.md) to set up your development system for these tutorials. You only have to do this one time per development system.
-2. Us the tutorials in the drop-down below to complete your tasks.
+2. Use the tutorials in the drop-down below to complete your tasks.
 
 <details><summary>Tutorials</summary>
 
