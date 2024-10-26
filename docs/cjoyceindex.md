@@ -24,7 +24,7 @@ Learn how to do common tasks with the To-Do service using our tutorials!
 
 ### Please note the following:
 
-* The API reference docs refer to a `{base_url}` when they
+* The API docs above refer to a `{base_url}` when they
 refer to the URL of a resource. The `{base_url}` value depends
 on the installation of the service.
 * When run locally for testing, the `{base_url}` is
