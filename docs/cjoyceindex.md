@@ -9,12 +9,12 @@ Learn how to do common tasks with the To-Do service using our tutorials!
 1. Use [this guide](before-you-start-a-tutorial.md) to set up your development system for these tutorials. You only have to do this once per development system.
 2. Use the tutorials in the drop-down below to complete your tasks!
 
-<pre><details><summary>Tutorials</summary>
+<details><summary>Tutorials</summary>
 
 * [Enroll a new user](tutorials/enroll-a-new-user.md)
 * [Add a new task](tutorials/add-a-new-task.md)
 
-</details></pre>
+</details>
 
 ## API reference information
 
