@@ -15,8 +15,6 @@ Learn how to do common tasks with in the To-Do service.
 
 First, do [this tutorial](before-you-start-a-tutorial.md) to set up your development system for these tutorials. You only have to do this one time per development system.
 
-* [Before you start a tutorial](before-you-start-a-tutorial.md)
-
 After your system is ready, the tutorials listed in the below drop-down show you how to perform common tasks:
 
 <details><summary>Tutorials</summary>
