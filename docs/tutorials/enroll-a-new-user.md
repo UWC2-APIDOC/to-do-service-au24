@@ -1,7 +1,6 @@
 # Tutorial: Enroll a new user
 
-In this tutorial, you learn the operations to call to
-enroll a new user into the service.
+Using this tutorial, you'll be able to enroll a new user into the To-do service.
 
 Expect this tutorial to take about 15 minutes to complete.
 
