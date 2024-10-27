@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Tutorial: Enroll a new user
 
 In this tutorial, you learn the operations to call to
