@@ -9,7 +9,7 @@ This should take about **15 minutes** to complete.
 
 Make sure you've completed the [Before you start a tutorial](../before-you-start-a-tutorial.md) topic. This will ensure your development system is running correctly!
 
-## Enroll a new user
+## Let's get started
 
 Enrolling a new user in the service requires that you add (`POST`) the details of a new [`user`](../api/user.md) resource to the service.
 
