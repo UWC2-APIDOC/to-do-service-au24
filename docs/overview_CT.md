@@ -45,6 +45,7 @@ of users who receive them. View the tutorials below for more information.
 ### Users
 
 - [Enroll a new user](tutorials/enroll-a-new-user.md)
+- [Get a user by their user ID](api/users-get-user-by-id-CT.md)
 
 ## API reference docs
 
