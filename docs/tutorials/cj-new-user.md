@@ -19,8 +19,7 @@ This should take about **15 minutes** to complete.
 Enrolling a new user in the service requires that you add (`POST`) the details of a new [`user`](../api/user.md) resource to the service.
 
 
-1. Open the Postman app on your desktop.
-2. In the Postman app, create a new request with these values:
+1. Using the Postman app, create a new request with these values:
     * **METHOD**: POST
     * **URL**: `{{base_url}}/users`
     * **Headers**:
