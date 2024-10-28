@@ -29,6 +29,7 @@ Here are some more overview pages that explain the To-Do Service and how to get 
 
 * [Enroll your first user](tutorials/first-use-alicia.md) with the To-Do service to learn how to get started.
 * [Create your first user and task](quickstart_guide_david.md)
+* [Quickstart - Wendy](Quickstart_wuf.md)
 
 ## Tutorials
 
