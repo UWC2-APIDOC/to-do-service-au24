@@ -18,17 +18,9 @@ This should take about **15 minutes** to complete.
 
 Enrolling a new user in the service requires that you add (`POST`) the details of a new [`user`](../api/user.md) resource to the service.
 
-To enroll a new user:
-
-1. Make sure your local service is running, or start it by using this command, if it's not.
-
-    ```shell
-    cd <your-github-workspace>/to-do-service/api
-    json-server -w to-do-db-source.json
-    ```
 
 1. Open the Postman app on your desktop.
-1. In the Postman app, create a new request with these values:
+2. In the Postman app, create a new request with these values:
     * **METHOD**: POST
     * **URL**: `{{base_url}}/users`
     * **Headers**:
@@ -44,8 +36,8 @@ To enroll a new user:
         }
         ```
 
-1. In the Postman app, choose **Send** to make the request.
-1. Watch for the response body, which should look something like this. Note that the names should be the same as you used in your **Request body** and the response should include the new user's `id`.
+3. In the Postman app, choose **Send** to make the request.
+4. Watch for the response body, which should look something like this. Note that the names should be the same as you used in your **Request body** and the response should include the new user's `id`.
 
     ```js
     {
