@@ -1,7 +1,7 @@
 # Tutorial: Enroll a new user
 
 
-Using this tutorial, you'll be able to enroll a new user into the To-do service!
+Using this tutorial, you will add (`POST`) the details of a new [`user resource`](../api/user.md) to the service, enrolling a new user!
 
 This should take about **15 minutes** to complete.
 
@@ -15,8 +15,6 @@ This should take about **15 minutes** to complete.
     ```
 
 ## Let's get started
-
-Enrolling a new user in the service requires that you add (`POST`) the details of a new [`user`](../api/user.md) resource to the service.
 
 
 1. Using the Postman app, create a new request with these values:
