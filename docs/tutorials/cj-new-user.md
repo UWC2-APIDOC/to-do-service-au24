@@ -23,7 +23,7 @@ This should take about **15 minutes** to complete.
     * **Headers**:
         * `Content-Type: application/json`
     * **Request body**:
-        You can change the values of each property as you'd like.
+        Please reference the [`user resource page`](../api/user.md) for an guide to each property.
 
         ```js
         {
