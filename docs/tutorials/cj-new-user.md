@@ -7,7 +7,7 @@ This should take about **15 minutes** to complete.
 
 ## Before you start
 
-Make sure you've completed the [Before you start a tutorial](../before-you-start-a-tutorial.md) topic on the development system you'll use for the tutorial.
+Make sure you've completed the [Before you start a tutorial](../before-you-start-a-tutorial.md) topic. This will ensure your development system is running correctly!
 
 ## Enroll a new user
 
