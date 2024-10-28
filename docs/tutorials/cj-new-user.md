@@ -3,7 +3,7 @@
 
 Using this tutorial, you'll be able to enroll a new user into the To-do service!
 
-This should take about 15 minutes to complete.
+This should take about **15 minutes** to complete.
 
 ## Before you start
 
