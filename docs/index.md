@@ -24,6 +24,7 @@ Here are some more overview pages that explain the To-Do Service and how to get 
 * [Cody Titmus' overview](overview_CT.md)
 * [Sophie Yang's overview](overview_sy.md)
 * [David Young's overview](overview_david.md)
+* [SophieL's overview](overview_SophieL.md)
 
 ## Quickstart
 
