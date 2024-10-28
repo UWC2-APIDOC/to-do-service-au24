@@ -7,7 +7,12 @@ This should take about **15 minutes** to complete.
 
 ## Before you start
 
-Make sure you've completed the [Before you start a tutorial](../before-you-start-a-tutorial.md) topic. This will ensure your development system is running correctly!
+1. Make sure you've completed the [Before you start a tutorial](../before-you-start-a-tutorial.md) topic. This will ensure your development system is running correctly!
+2. Start your local service if it isn't already running by using the following command:
+    ```shell
+    cd <your-github-workspace>/to-do-service/api
+    json-server -w to-do-db-source.json
+    ```
 
 ## Let's get started
 
