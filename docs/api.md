@@ -18,5 +18,6 @@ On test and development installations, the server's base address is typically `h
     * [Get all tasks - Sophie](api/tasks-get-all-tasks-sophie.md)
     * [Get task by ID - Alicia](api/tasks-get-by-task-id_alkreb.md)
     * [Get task by ID - Clarissa](api/tasks-get-by-task-id_csun.md)
+    * [Get tasks by User ID - David](api/tasks-get-tasks-by-user_id_david.md)
     * [Get tasks by User ID - Wendy](api/tasks-get-tasks-by-user_id_WUF.md)
 * [User resource](api/user.md)
