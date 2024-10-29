@@ -33,8 +33,8 @@ This should take about **15 minutes** to complete.
         }
         ```
 
-3. Click **Send** to make the request!
-   * Observe the response body. The `last_name`, `first_name`, and `email` values should remain as what you entered in **Step 2**, and there should be a new `id` value. It will look something like this:
+2. Click **Send** to make the request, and make sure the response looks correct.
+   * The `last_name`, `first_name`, and `email` values should remain as what you entered in **Step 2**, and there should be a new `id` value. It will look something like this:
    
 
     ```js
