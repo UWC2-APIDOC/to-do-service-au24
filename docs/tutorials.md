@@ -17,3 +17,4 @@ before you start your first tutorial.
 ## Task resource tutorials
 
 * [Add a new task](tutorials/add-a-new-task.md)
+* [Delete a task - Caitlin](tutorials/delete-a-task_chood.md)
