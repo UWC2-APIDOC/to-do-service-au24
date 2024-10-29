@@ -27,7 +27,7 @@ Here are some more overview pages that explain the To-Do Service and how to get 
 
 ## Quickstart
 
-[Post your first task _(coming soon)_](#quickstart) with the To-Do service to see how easy it is to use!
+[Emroll your first user](tutorials/first-use-alicia.md) with the To-Do service to learn how to get started. 
 
 ## Tutorials
 
