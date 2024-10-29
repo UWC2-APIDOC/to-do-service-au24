@@ -57,3 +57,5 @@ generally `http://localhost:3000`.
 
 * [user resource](api/user.md)
 * [task resource](api/task.md)
+* [First Use DMANIS](tutorials/add-a-user_dmanis.md)
+
