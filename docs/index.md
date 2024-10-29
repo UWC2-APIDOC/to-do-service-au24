@@ -44,6 +44,7 @@ First, do this tutorial to set up your development system for these tutorials. Y
 After your system is ready, [tutorials](./tutorials.md) such as these show you how to perform common tasks.
 
 * [Enroll a new user](tutorials/enroll-a-new-user.md)
+* [First Use (new user) DMANIS](tutorials/add-a-user_dmanis.md)
 * [Add a new task](tutorials/add-a-new-task.md)
 * Change the due-date of a task
     * [tutorial_sy](tutorials/tutorial_sy.md)
