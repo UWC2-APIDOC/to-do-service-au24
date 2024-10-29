@@ -18,7 +18,7 @@ This should take about **15 minutes** to complete.
 
 
 1. Using the Postman app, create a new request with these values:
-    * **METHOD**: POST
+    * **Method**: POST
     * **URL**: `{{base_url}}/users`
     * **Headers**:
         * `Content-Type: application/json`
