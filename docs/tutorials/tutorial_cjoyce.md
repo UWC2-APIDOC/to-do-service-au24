@@ -20,6 +20,7 @@ This should take about **15 minutes** to complete.
 1. Using the Postman app, set up a new request with these values:
     * **Method**: POST
     * **URL**: `{{base_url}}/users`
+        * When run locally for testing, the {base_url} is generally http://localhost:3000.
     * **Headers**:
         * `Content-Type: application/json`
     * **Request body**:
