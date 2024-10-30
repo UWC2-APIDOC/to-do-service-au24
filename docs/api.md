@@ -17,4 +17,5 @@ On test and development installations, the server address is typically `http://l
     * [Get all tasks - Nikki](api/tasks-get-all-tasks-nikki-everett.md)
     * [Get task by ID - Alicia](api/tasks-get-by-task-id_alkreb.md)
     * [Get task by ID - Clarissa](api/tasks-get-by-task-id_csun.md)
+    * [Get tasks by User ID - Wendy](api/tasks-get-tasks-by-user_id_WUF.md)
 * [User resource](api/user.md)
