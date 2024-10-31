@@ -8,7 +8,7 @@ This tutorial takes about 10 minutes to complete.
 
 ## Prerequisites
 
-Make sure to complete all of the steps in [System Pre-requisites](../before-you-start-a-tutorial.md).
+Make sure to complete all of the steps in [System Prerequisites](../before-you-start-a-tutorial.md).
 
 ## Delete a task
 
