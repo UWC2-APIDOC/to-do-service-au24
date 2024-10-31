@@ -16,7 +16,7 @@ Contains details about the users of the service.
 
 ```shell
 
-{server_url}/users/1
+{server_url}/users/3
 ```
 
 </details>
