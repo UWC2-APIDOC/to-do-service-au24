@@ -43,6 +43,6 @@ Contains details about the users of the service. A user must be added to the ser
 }
 ```
 
-## Tutorials
+## User tutorials
 
 * [Enroll a new user](https://github.com/cnjoyce1225/to-do-service-au24/blob/b4f835b01f271d14f87f50e1213c8dfc8dc59eb9/docs/tutorials/tutorial_cjoyce.md)
