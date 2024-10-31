@@ -1,6 +1,6 @@
 # `user` resource
 
-Contains details about the users of the service. The user must be added to the service before they can add a task.
+Contains details about the users of the service. The user must be added to the service before they can add a [task](https://github.com/cnjoyce1225/to-do-service-au24/blob/65725a13e9c10c6daaccdf216c7dbd0d45e02c8d/docs/api/task.md).
 
 ## Endpoints:
 <details><summary>Base endpoint</summary>
