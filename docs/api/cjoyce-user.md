@@ -3,11 +3,15 @@
 Contains details about the users of the service.
 
 ## Endpoints:
+<details><summary>Base endpoint</summary>
 
 ```shell
 
 {server_url}/users
 ```
+
+</details>
+
 
 ## Resource properties
 
