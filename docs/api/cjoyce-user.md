@@ -1,6 +1,6 @@
 # `user` resource
 
-Contains details about the users of the service.
+Contains details about the users of the service. The user must be added to the service before they can add a task.
 
 ## Endpoints:
 <details><summary>Base endpoint</summary>
