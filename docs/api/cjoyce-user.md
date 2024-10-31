@@ -12,7 +12,7 @@ Contains details about the users of the service.
 
 </details>
 
-<details><summary>Endpoint for lookup by user ID</summary>
+<details><summary>Example: lookup by user ID</summary>
 
 ```shell
 
