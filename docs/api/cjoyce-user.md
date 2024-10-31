@@ -32,4 +32,4 @@ Sample `user` resource
 
 ## Tutorials
 
-* [Enroll a new user]([docs/tutorials/enroll-a-new-user.md](https://github.com/cnjoyce1225/to-do-service-au24/blob/b4f835b01f271d14f87f50e1213c8dfc8dc59eb9/docs/tutorials/tutorial_cjoyce.md)
+* [Enroll a new user](https://github.com/cnjoyce1225/to-do-service-au24/blob/b4f835b01f271d14f87f50e1213c8dfc8dc59eb9/docs/tutorials/tutorial_cjoyce.md)
