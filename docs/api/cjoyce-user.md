@@ -2,7 +2,7 @@
 
 Contains information about the users of the service. Once a `user` is added, they can create a [task](task.md).
 
-Base endpoint:
+## Base endpoint:
 
 ```shell
 
