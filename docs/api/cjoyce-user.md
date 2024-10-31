@@ -2,7 +2,7 @@
 
 Contains details about the users of the service.
 
-## Base endpoint:
+## Endpoints:
 
 ```shell
 
