@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # `user` resource
 
 Base endpoint:
