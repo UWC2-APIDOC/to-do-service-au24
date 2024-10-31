@@ -7,10 +7,7 @@ Base endpoint:
 {server_url}/users
 ```
 
-Contains information about the users of the service.
-
-To have a task in the service, the user must be added to
-the service first. Learn more about the [task resource](task.md).
+Contains information about the users of the service. Once a user is added, they can create a [task](task.md).
 
 ## Resource properties
 
