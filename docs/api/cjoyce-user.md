@@ -1,13 +1,13 @@
 # `user` resource
 
+Contains information about the users of the service. Once a `user` is added, they can create a [task](task.md).
+
 Base endpoint:
 
 ```shell
 
 {server_url}/users
 ```
-
-Contains information about the users of the service. Once a user is added, they can create a [task](task.md).
 
 ## Resource properties
 
