@@ -30,7 +30,6 @@ Sample `user` resource
 | `email` | string | The user's email address |
 | `id` | number | The user's unique record ID |
 
-## READ
+## Tutorials
 
-* [Get all users](users-get-all-users.md)
-* [Get users by ID](users-get-user-by-id.md)
+* [Enroll a new user](docs/tutorials/enroll-a-new-user.md)
