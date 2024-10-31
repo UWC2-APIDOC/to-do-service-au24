@@ -24,6 +24,13 @@ Contains details about the users of the service. A user must be added to the ser
 
 ## Resource properties
 
+| Property name | Type | Description |
+| ------------- | ----------- | ----------- |
+| `last_name` | string | The user's last name |
+| `first_name` | string | The user's first name |
+| `email` | string | The user's email address |
+| `id` | number | The user's unique record ID |
+
 Sample `user` resource
 
 ```js
@@ -35,13 +42,6 @@ Sample `user` resource
     "id": 1
 }
 ```
-
-| Property name | Type | Description |
-| ------------- | ----------- | ----------- |
-| `last_name` | string | The user's last name |
-| `first_name` | string | The user's first name |
-| `email` | string | The user's email address |
-| `id` | number | The user's unique record ID |
 
 ## Tutorials
 
