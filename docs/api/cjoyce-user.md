@@ -1,6 +1,6 @@
 # `user` resource
 
-Contains information about the users of the service. Once a `user` is added, they can create a [task](task.md).
+Contains details about the users of the service.
 
 ## Base endpoint:
 
