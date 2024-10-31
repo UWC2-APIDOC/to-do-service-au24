@@ -12,6 +12,15 @@ Contains details about the users of the service.
 
 </details>
 
+<details><summary>Endpoint for lookup by user ID</summary>
+
+```shell
+
+{server_url}/user/1
+```
+
+</details>
+
 
 ## Resource properties
 
