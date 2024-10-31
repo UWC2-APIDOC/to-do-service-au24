@@ -31,7 +31,7 @@ Contains details about the users of the service. A user must be added to the ser
 | `email` | string | The user's email address |
 | `id` | number | The user's unique record ID |
 
-Sample `user` resource
+### Sample `user` resource
 
 ```js
 
