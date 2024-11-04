@@ -1,10 +1,10 @@
 # To-Do service
 
-## Sometimes life feels like a circus act ...
+## Sometimes life feels like a circus act
 
-A three-ring circus ...
+A three-ring circus.
 
-Too many balls in the air, and then ... 
+Too many balls in the air, and then
 
 ## Boom! Crash!
 
