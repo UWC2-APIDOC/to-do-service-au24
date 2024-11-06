@@ -18,11 +18,6 @@ Here are some more overview pages that explain the To-Do Service and how to get 
 * [Nikki Everett](overview_nikki_everett.md)
 * [Caitlin Hood](overview-chood.md)
 * [Alicia's overview](overview-alicia.md)
-* [DMANIS overview](overview_dmanis.md)
-* [JDN's New Overview Topic](to-do-lp-jdn)
-* [Clarissa Sun's overview](overview_csun.md)
-* [Cody Titmus' overview](overview_CT.md)
-* [Sophie Yang's overview](overview_sy.md)
 
 ## Quickstart
 
