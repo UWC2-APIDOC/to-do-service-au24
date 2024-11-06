@@ -24,7 +24,7 @@ Before you dive into our tutorials and start loving the To-Do service, you need 
 
 - [Set up your development system](before-you-start-a-tutorial.md)
 
-**Note:*- You only need to follow the setup steps once per development system.
+**Note:** You only need to follow the setup steps once per development system.
 
 ## Create your first task
 
