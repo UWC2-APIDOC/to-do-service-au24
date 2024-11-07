@@ -1,8 +1,6 @@
-[Back to Landing Page](overview_david.md)
-
 # Quickstart Guide
 
-*Welcome to the To-Do Service API! This guide will help you get started quickly by showing you how to enroll a new user and add a task using our API with Postman.*
+Welcome to the To-Do Service API! This guide will help you get started quickly by showing you how to enroll a new user and add a task using our API with Postman.
 
 ## Overview
 
@@ -16,7 +14,7 @@ In this quickstart, you will:
 
 ## Prerequisites
 
-Read the [Before you start a tutorial](before-you-start-a-tutorial.md) for prerequisites.
+Complete the [Before you start a tutorial](before-you-start-a-tutorial.md) guide to make your system ready for this quickstart.
 
 ## Step 1: Start the To-Do Service API
 
@@ -25,19 +23,20 @@ Start the API server using `json-server` in the `api` directory:
 ```shell
 json-server -w to-do-db-source.json
 ```
-This will start the server at `http://localhost:3000`. Set this as an environment variable for base_url in Postman, otherwise you can use `http://localhost:3000` in place of `{{base_url}}`.
+
+This starts the server at `http://localhost:3000`. Set the value of the `{% raw %}{{base_url}}{% endraw %}` environment variable in Postman to `http://localhost:3000` or manually substitute `{% raw %}{{base_url}}{% endraw %}` with `http://localhost:3000` when entering the request URL.
 
 ## Step 2: Enroll a New User
 
-1. Open Postman and create a new **POST** request to `{{base_url}}/users`.
+1\. Open Postman and create a new **POST** request to `{% raw %}{{base_url}}/users{% endraw %}`.
 
-2. In the **Headers** tab, verify:
+2\. In the **Headers** tab, verify:
 - Key: `Content-Type`
 - Value: `application/json`
 
-3. In the **Body** tab, select **raw** and choose **JSON**.
+3\. In the **Body** tab, select **raw** and choose **JSON**.
 
-4. Enter the following JSON data:
+4\. Enter the following JSON data:
 
 ```json
 {
@@ -47,7 +46,7 @@ This will start the server at `http://localhost:3000`. Set this as an environmen
 }
 ```
 
-5. Click **Send**.
+5\. Click **Send**.
 
 ### Response
 
@@ -66,15 +65,15 @@ Note: Remember the `id` of the new user (e.g., `5`) for the next step.
 
 ## Step 3: Add a New Task for the User
 
-1. Create a new **POST** request to `{{base_url}}/tasks`.
+1\. Create a new **POST** request to `{% raw %}{{base_url}}/tasks{% endraw %}`.
 
-2. In the **Headers** tab, verify:
+2\. In the **Headers** tab, verify:
 - Key: `Content-Type`
-- Value: `application/json` header`.
+- Value: `application/json` header.
 
-3. In the **Body** tab, select **raw** and choose **JSON**.
+3\. In the **Body** tab, select **raw** and choose **JSON**.
 
-4. Enter the following JSON data:
+4\. Enter the following JSON data:
 
 ```json
 {
@@ -86,7 +85,7 @@ Note: Remember the `id` of the new user (e.g., `5`) for the next step.
 }
 ```
 
-5. Click **Send**.
+5\. Click **Send**.
 
 ### Response
 
@@ -105,13 +104,13 @@ You should see the new task with an assigned `id`:
 
 ## Step 4: Retrieve the User's Tasks
 
-1. Create a new **GET** request to `{{base_url}}/tasks?user_id=5` where `user_id` is the `id` for the user created in Step 2 above. In our example, the `user_id` is `5`.
+1\. Create a new **GET** request to `{% raw %}{{base_url}}/tasks?user_id=5{% endraw %}`.
 
-2. Click **Send**.
+2\. Click **Send**.
 
 ### Response
 
-You should receive an array of tasks for the user:
+The response contains a JSON array with the user's only task, similar to this example.
 
 ```json
 [
