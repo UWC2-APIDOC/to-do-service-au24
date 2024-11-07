@@ -33,7 +33,7 @@ Enrolling a new user in the service requires that you add `POST` the details of 
 
 To enroll a new user:
 
-1. Make sure your local service is running, or start it by using this command, if it's not.
+1. If the To-Do service is not running, start it by using this command in your command-line tool.
 
     ```shell
     cd <your-github-workspace>/to-do-service/api 
