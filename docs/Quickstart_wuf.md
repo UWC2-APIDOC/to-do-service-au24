@@ -62,7 +62,8 @@ To enroll a new user:
 
 ### Add tasks
 
-Now we are going to add some tasks for our new user. You'll note that to do this we use the same `POST` command that we used to create the `user` record. The difference is that now we need to supply the following task data.
+Now we are going to add some tasks for our new user. Note that to do this we use a `POST` command that's similar to what we just used to create the `user` record. The difference is that now we need to supply the following task data.
+The differences are that we are creating a `task` resource and providing the task data described here.
 
 | Property name | Type | Description |
 | ------------- | ----------- | ----------- |
