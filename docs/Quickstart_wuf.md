@@ -41,7 +41,7 @@ To enroll a new user:
     ```
 
 2. Open another command-line window.
-3. Use the POST command to send new request with these values:
+3. To create a new user resource, in the new command-line window, enter this curl command:
 
     ```shell
     curl -X POST http://localhost:3000/users \
