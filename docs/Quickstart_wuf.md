@@ -75,7 +75,8 @@ The differences are that we are creating a `task` resource and providing the tas
 
 
 
-1. We'll use the `POST` command to create a task for our new user to **get plane tickets from NYC to Portugal** before midnight on **11/01/24**. We will also send a reminder **24 hours** before the deadline.
+1. We'll use the `POST` command in our command-line tool to create a task for our new user to **get plane tickets from NYC to Portugal** before midnight on **11/01/24**. We will also send a reminder **24 hours** before the deadline.
+
 
     ```shell
         curl -X POST http://localhost:3000/tasks \
