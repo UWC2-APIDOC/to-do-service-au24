@@ -139,7 +139,8 @@ Now we'll use the To-Do service to get all the tasks we created for our new user
     }
     ```
 ## Recap
-**Congratulations!!** In 15 minutes, you've successfully created a user and some tasks. You also queried and received specific information from those records. However, you can do so much more with the **To Do Service API**. To learn more about what is possible, we invite you to take a look at some of our other tutorials.
+**Congratulations!!** You've successfully created a new user and saved some tasks. You also queried the To-Do service and received specific information about the user and their tasks. 
+You can do so much more with the **To Do Service API**. To learn more about what is possible, we invite you to take a look at some of our other tutorials.
 
 ## Learn more
 
