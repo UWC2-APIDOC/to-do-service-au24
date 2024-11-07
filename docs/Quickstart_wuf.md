@@ -25,7 +25,7 @@ To sucessfully complete this quick start you will need to set up a test environm
 
 ## Users and Tasks
 
-The **To Do Service API** uses JSON files to create its database. In this tutorial, we will use cURL to `POST` and `GET` our data, but you can use any other client, such as Postman to send and receive data.
+The **To Do Service API** uses JSON files to create its database. In this tutorial, we will use cURL to `POST` and `GET` our data, but you can use any other REST client, such as Postman to send and receive data.
 
 ### Enroll a new user
 
