@@ -6,11 +6,15 @@ layout: page
 
 Use the following steps to quickly identify and delete a user from your subscriber base. You can perform these steps using [cURL commands](#delete-a-user-with-curl-commands) or in the [Postman application](#delete-a-user-in-postman).
 
-*Note: This tutorial assumes that you have already completed the To-Do Service first-time setup process. If you have not, complete the steps described in [First-time setup](), then return to this tutorial.*
+You will have to use a command-line tool to complete the tutorial. If you are a first-time user, we recommend using Git Bash. If you use a different command-line tool, you may need to adapt the provided syntax for your tool of choice.
+
+The tutorial will take about five minutes. 
+
+_**Note:** This tutorial assumes that you have already completed the To-Do Service first-time setup process. If you have not, complete the steps described in [First-time setup](../before-you-start-a-tutorial.md), then return to this tutorial._
 
 ## Delete a user with cURL commands
 
-1. In your preferred command line tool (for new users, we recommend Git Bash), start the To-Do Service locally by entering the following command:
+1. In your preferred command line tool, start the To-Do Service locally by entering the following command:
 
     ```shell
     cd <your-github-workspace>/to-do-service/api
@@ -23,7 +27,7 @@ Use the following steps to quickly identify and delete a user from your subscrib
     ```shell
     curl {base_url}/users
     ```
-    *Note: When run locally for testing, the `{base_url}` is generally `http://localhost:3000`.*
+    _**Note:** When run locally for testing, the `{base_url}` is generally `http://localhost:3000`._
 
     The command line tool returns a complete list of your users.
 
@@ -41,7 +45,7 @@ Use the following steps to quickly identify and delete a user from your subscrib
 
 ## Delete a user in Postman
 
-1. In your preferred command line tool (for new users, we recommend Git Bash), start the To-Do Service locally by entering the following command:
+1. In your preferred command line tool, start the To-Do Service locally by entering the following command:
 
     ```shell
     cd <your-github-workspace>/to-do-service/api
@@ -56,7 +60,7 @@ Use the following steps to quickly identify and delete a user from your subscrib
     ```shell
     GET {base_url}/users
     ```
-    *Note: When run locally for testing, the `{base_url}` is generally `http://localhost:3000`.*
+    _**Note:** When run locally for testing, the `{base_url}` is generally `http://localhost:3000`._
 
 4. Click **Send**. 
 
@@ -80,6 +84,6 @@ Use the following steps to quickly identify and delete a user from your subscrib
 
 See the following user-related tutorials to learn more about managing your subscriber base:
 
-- [Enroll a new user]()
-- [Update an existing user]()
-- [Search for users by attribute]()
+- [Enroll a new user](../tutorials.md)
+- [Update an existing user](../tutorials.md)
+- [Search for users by attribute](../tutorials.md)
