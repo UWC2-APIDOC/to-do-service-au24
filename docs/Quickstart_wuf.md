@@ -97,7 +97,7 @@ The differences are that we are creating a `task` resource and providing the tas
 1. Create some more tasks for your new user.
 
 ### Get the tasks for a user
-Now we'll use the service to get all the tasks we created for our new user. This is a good check to see one way this API is used.
+Now we'll use the To-Do service to get all the tasks we created for our new user. This demonstrates a new way to get tasks from the To-Do service.
 1. Add the `user_id` that was returned in the [first section](#enroll-a-new-user) of this tutorial to a cURL request to the `tasks` resource.
    ```shell
     curl http://localhost:3000/tasks?user_id=7
