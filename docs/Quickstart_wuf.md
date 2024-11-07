@@ -40,7 +40,7 @@ To enroll a new user:
     sh start-server.sh
     ```
 
-2. Open another IDE.
+2. Open another command-line window.
 3. Use the POST command to send new request with these values:
 
     ```shell
