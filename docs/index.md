@@ -43,6 +43,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [Add a new task](tutorials/add-a-new-task.md)
 * [Change the due-date of a task _(coming soon)_](#tutorials)
 * [Delete a task _(coming soon)_](#tutorials)
+* [First Use DMANIS](tutorials/add-a-user_dmanis.md)
 
 ## API reference docs
 
