@@ -1,37 +1,49 @@
 # Code examples
 
-**Author:** \<replace with your name\>
+**Author:** Christine Joyce
 
 ## cURL example
 
-\<replace with a description of the example\>
+Requesting a Pepsi branded soda.
 
 ### cURL command
 
 ```shell
-<replace with the command line used>
+ curl http://localhost:3000/Pepsi_Sodas
 ```
 
 ### cURL response
 
 ```shell
-<replace with the response>
+{
+    "Name": "Crush",
+    "Color": "various",
+    "Flavor profile": "fruity",
+    "Calories per serving": "160",
+    "id": 1
+  }
 ```
 
 ## Postman example
 
-\<replace with a description of the example\>
+Requesting a Coke branded soda.
 
 ### Request
 
 **Method**:
 
 ```shell
-<replace with the request used for this example>
+{{base_url}}Coke_Sodas
 ```
 
 ### Postman response
 
 ```shell
-<replace with the response>
+ {
+        "Name": "Sprite",
+        "Color": "clear",
+        "Flavor profile": "fruity",
+        "Calories per serving": "140",
+        "id": 1
+    }
 ```
