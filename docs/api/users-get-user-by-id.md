@@ -10,7 +10,7 @@ Returns an array of  [`user`](user.md) objects that contains only the user speci
 
 ```shell
 
-{server_url}/users/{id}
+{base_url}/users/{id}
 ```
 
 ## Params

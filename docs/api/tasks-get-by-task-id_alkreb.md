@@ -4,7 +4,7 @@ layout: page
 
 # Get task by ID
 
-GET {server_url}/task/{id}
+GET {base_url}/task/{id}
 
 Retrieves a task by the task id.
 

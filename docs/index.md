@@ -48,7 +48,7 @@ After your system is ready, [tutorials](./tutorials.md) such as these show you h
 
 Detailed descriptions of the service's resources.
 
-The API reference docs refer to a `{base_url}` when they
+The [API reference docs](api.md) refer to a `{base_url}` when they
 refer to the URL of a resource. The `{base_url}` value depends
 on the installation of the service.
 

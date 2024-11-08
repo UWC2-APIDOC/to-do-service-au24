@@ -7,7 +7,7 @@ layout: page
 ## Base endpoint
 
 ```shell
-{server_url}/tasks
+{base_url}/tasks
 ```
 
 ## Description

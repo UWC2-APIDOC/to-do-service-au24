@@ -4,11 +4,11 @@ layout: page
 
 # API reference
 
-The API reference topics refer to the To-Do Service's server URL as `{server_url}`.
-Replace the `{server_url}` with the address of the server that hosts your To-Do Service
+The API reference topics refer to the To-Do Service's base URL as `{base_url}`.
+Replace `{base_url}` with the address of the server that hosts your To-Do Service
 API for the correct URL.
 
-On test and development installations, the server address is typically `http://localhost:3000`.
+On test and development installations, the server's base address is typically `http://localhost:3000`.
 
 ## Resources
 
