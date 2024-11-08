@@ -16,7 +16,7 @@ Allow 30 minutes to complete this lesson.
 
 ## Overview
 
-The following procedures will teach you how to [Create a new user](#create-a-new-user) and to [Fetch your new user's details](#fetch-your-new-user's-details). When you've completed the procedures you will have a new user ready to receive tasks and notifications.
+The following procedures will teach you how to [Create a new user](#create-a-new-user) and to [Fetch your new user's details](#fetch-your-new-users-details). When you've completed the procedures you will have a new user ready to receive tasks and notifications.
 
 ### Create a new user
 
