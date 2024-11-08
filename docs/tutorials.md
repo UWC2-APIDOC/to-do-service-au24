@@ -11,3 +11,4 @@ before you start your first tutorial.
 
 * [Enroll a new user](tutorials/enroll-a-new-user.md)
 * [Add a new task](tutorials/add-a-new-task.md)
+* [Delete a task](tutorials/delete-a-task-nikki-everett.md)
