@@ -16,7 +16,7 @@ Make sure you've added one or more tasks before attempting to delete a task. For
 
 Deleting a task from the service requires that you delete (`DELETE`) the [`task`](../api/task.md) resource from the service.
 
-[!WARNING] Deleting a task permanently removes it from the To-Do Service. Always double check the task ID before sending a `DELETE` request.
+**WARNING** Deleting a task permanently removes it from the To-Do Service. Always double check the task ID before sending a `DELETE` request.
 
 To delete a task:
 
