@@ -1,37 +1,49 @@
 # Code examples
 
-**Author:** \<replace with your name\>
+**Author:** Christine Joyce
 
 ## cURL example
 
-\<replace with a description of the example\>
+Retrieve a task in the to-do list by its user ID.
 
 ### cURL command
 
 ```shell
-<replace with the command line used>
+curl http://localhost:3000/tasks/2
 ```
 
 ### cURL response
 
 ```shell
-<replace with the response>
+{
+  "user_id": 1,
+  "title": "Piano recital",
+  "description": "Daughter's first concert appearance",
+  "due_date": "2024-04-02T15:00",
+  "warning": "-30",
+  "id": 2
+}
 ```
 
 ## Postman example
 
-\<replace with a description of the example\>
+Retrieve a user by their user ID.
 
 ### Request
 
 **Method**:
 
 ```shell
-<replace with the request used for this example>
+{base_url}/users/2
 ```
 
 ### Postman response
 
 ```shell
-<replace with the response>
+{
+    "last_name": "Jones",
+    "first_name": "Jill",
+    "email": "j.jones@example.com",
+    "id": 2
+}
 ```
