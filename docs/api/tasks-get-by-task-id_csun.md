@@ -9,7 +9,7 @@ Returns a [`task`](task.md) array that contains only the task resource specified
 ## URL
 
 ```shell
-{server_url}/tasks/{id}
+{base_url}/tasks/{id}
 ```
 
 ## Params

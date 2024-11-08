@@ -8,7 +8,7 @@ Base endpoint:
 
 ```shell
 
-{server_url}/tasks
+{base_url}/tasks
 ```
 
 Contains information about tasks stored for the users of the service.

@@ -10,7 +10,7 @@ Returns an array of  [`task`](task.md) objects that relate to the user specified
 
 ```shell
 
-{server_url}/tasks?user_id={user_id}
+{base_url}/tasks?user_id={user_id}
 ```
 
 ## Params
