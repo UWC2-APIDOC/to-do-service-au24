@@ -1,22 +1,22 @@
 # Tutorial: Delete a task
 
-Here you will learn here how to delete a previously created task from your to-do list.
+Here you will learn here how to delete a task from your to-do list.
 
-This tutorial will take about 10 minutes to complete.
+This tutorial takes about 10 minutes to complete.
 
-**Caution**: Deleting a task will remove the task item from the To-do Service forever.
+**Caution**: Deleting a task removes the task item from the To-do Service forever.
 
-## Pre-requisites
+## Prerequisites
 
-Make sure you have completed all of the steps in [System Pre-requisites](../before-you-start-a-tutorial.md) before you start the tutorial.
+Make sure to complete all of the steps in [System Pre-requisites](../before-you-start-a-tutorial.md).
 
 ## Delete a task
 
-Deleting a task requires you add (`DELETE`) to a task request with a specific task ID.
+Deleting a task uses a request with the (`DELETE`) method and the task's task ID.
 
 ### To delete a task
 
-1. First ensure your local service is running. If not, you can start it using the following command:
+1. Confirm your local service is running. If it's not, use the following command to start it:
 
     ```shell
     cd your-github-workspace>/to-do-service/api
@@ -38,5 +38,4 @@ Deleting a task requires you add (`DELETE`) to a task request with a specific ta
 Verify your request was successful by sending a GET All Tasks request to check that your task no longer appears as a response.
 
 ## Related pages
-* [Add a new task](..//tutorials/add-a-new-task.md)
-* GET All Tasks
+* [Add a new task](add-a-new-task.md)
