@@ -1,0 +1,94 @@
+{
+    "works": [
+        {
+            "id": 1,
+            "title": "All the lights we cannot see",
+            "source": "All the lights we cannot see (novel)",
+            "release_date": "2023",
+            "platform": "Netflix",
+            "genre": "historical fiction",
+            "loc_id": 1
+        },
+        {
+            "id": 2,
+            "title": "The Count of Monte Cristo",
+            "source": "The Count of Monte Cristo (novel)",
+            "release_date": "2024",
+            "platform": "coming soon",
+            "genre": "Adventure",
+            "loc_id": 4
+        },
+        {
+            "id": 3,
+            "title": "Stillwater",
+            "source": "original script",
+            "release_date": "2021",
+            "platform": "Netflix,Prime",
+            "genre": "Thriller",
+            "loc_id": 3
+        },
+        {
+            "id": 4,
+            "title": "Lupin",
+            "source": "Arsene Lupin",
+            "release_date": "2021",
+            "platform": "Netflix",
+            "genre": "Crime Drama",
+            "loc_id": 2
+        }
+    ],
+    "locations": [
+        {
+            "id": 1,
+            "name": "n/a",
+            "address": "n/a",
+            "town": "Villefranche-de-Rouergue",
+            "region": "Occitanie",
+            "longitude": "2.037543",
+            "latitude": "44.351762",
+            "tourist_info": "https://www.bastides-gorges-aveyron.fr/impregner/villages-caractere/villefranche-de-rouergue/",
+            "local_film_office": "secretariat@villefranchederouergue.fr",
+            "regional_film_office": "https://www.occitanie-films.fr/commission-du-film-filming-in-occitanie/",
+            "seen_in": 1
+        },
+        {
+            "id": 2,
+            "name": "Etretat Cliffs",
+            "address": "n/a",
+            "town": "Etretat",
+            "region": "Normandie",
+            "longitude": "0.195154",
+            "latitude": "49.706429",
+            "tourist_info": "https://en.normandie-tourisme.fr/professionals/office-de-tourisme-detretat/",
+            "local_film_office": "n/a",
+            "regional_film_office": "https://www.normandieimages.fr/",
+            "seen_in": 1
+        },
+        {
+            "id": 3,
+            "name": "les Goudes",
+            "address": "n/a",
+            "town": "13008 Marseille",
+            "region": "Provence-Ales-Cote d'Azur",
+            "longitude": "5.347584",
+            "latitude": "43.215314",
+            "tourist_info": "https://www.marseille-tourisme.com/en/discover-marseille/culture-heritage/the-districts-of-marseille/les-goudes-village/",
+            "local_film_office": "https://www.filmfrance.net/en/plan-your-production/film-commissions/marseille-film-commission",
+            "regional_film_office": "https://www.filmfrance.net/en/plan-your-production/film-commissions/regional-film-commission-provence-alpes-cote-dazur/",
+            "seen_in": 3
+        },
+        {
+            "id": 4,
+            "name": "Chateau d'If",
+            "address": "Archipel du Frioul",
+            "town": "Marseille",
+            "region": "Provence-Ales-Cote d'Azur",
+            "longitude": "5.325966",
+            "latitude": "43.278830",
+            "tourist_info": "https://provence-alpes-cotedazur.com/en/things-to-do/culture-and-heritage/monuments/chateau-if/",
+            "local_film_office": "https://www.chateau-if.fr/tournages-et-prises-de-vues",
+            "regional_film_office": "https://www.filmfrance.net/en/plan-your-production/film-commissions/regional-film-commission-provence-alpes-cote-dazur/",
+            "seen_in": 2
+        }
+    ]
+}
