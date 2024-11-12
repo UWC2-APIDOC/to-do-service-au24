@@ -12,6 +12,7 @@ before you start your first tutorial.
 ## User resource tutorials
 
 * [Enroll a new user](tutorials/enroll-a-new-user.md)
+* [Delete a user](tutorials/delete-a-user-levibeverly.md)
   
 ## Task resource tutorials
 

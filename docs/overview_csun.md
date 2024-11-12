@@ -13,7 +13,7 @@ All the guides and tutorials you'll need to start building straight away!
 ## Reference 
 
 Detailed reference documents for working with the To-Do Service platform.   
-[Reference](reference.md)
+[API Reference](api.md)
 
 ## Explore
 

@@ -14,11 +14,11 @@ subscribers can post tasks and receive reminders of those tasks.
 
 Here are some more overview pages that explain the To-Do Service and how to get started.
 
-* [Levi Beverly](overview-levibeverly.md)
-* [Nikki Everett](overview_nikki_everett.md)
-* [Caitlin Hood](overview-chood.md)
+* [Levi Beverly's overview](overview-levibeverly.md)
+* [Nikki Everett's overview](overview_nikki_everett.md)
+* [Caitlin Hood's overview](overview-chood.md)
 * [Alicia's overview](overview-alicia.md)
-* [DMANIS overview](overview_dmanis.md)
+* [DMANIS' overview](overview_dmanis.md)
 * [JDN's New Overview Topic](to-do-lp-jdn)
 * [Clarissa Sun's overview](overview_csun.md)
 * [Cody Titmus' overview](overview_CT.md)
@@ -27,7 +27,9 @@ Here are some more overview pages that explain the To-Do Service and how to get 
 
 ## Quickstart
 
-[Post your first task _(coming soon)_](#quickstart) with the To-Do service to see how easy it is to use!
+* [Enroll your first user](tutorials/first-use-alicia.md) with the To-Do service to learn how to get started.
+* [Create your first user and task](quickstart_guide_david.md)
+* [Quickstart - Wendy](Quickstart_wuf.md)
 
 ## Tutorials
 
@@ -37,18 +39,19 @@ First, do this tutorial to set up your development system for these tutorials. Y
 
 * [Before you start a tutorial](before-you-start-a-tutorial.md)
 
-After your system is ready, these tutorials show you how to perform common tasks.
+After your system is ready, [tutorials](./tutorials.md) such as these show you how to perform common tasks.
 
 * [Enroll a new user](tutorials/enroll-a-new-user.md)
 * [Add a new task](tutorials/add-a-new-task.md)
-* [Change the due-date of a task _(coming soon)_](#tutorials)
+* Change the due-date of a task
+    * [tutorial_sy](tutorials/tutorial_sy.md)
 * [Delete a task _(coming soon)_](#tutorials)
 
 ## API reference docs
 
 Detailed descriptions of the service's resources.
 
-The API reference docs refer to a `{base_url}` when they
+The [API reference docs](api.md) refer to a `{base_url}` when they
 refer to the URL of a resource. The `{base_url}` value depends
 on the installation of the service.
 

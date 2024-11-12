@@ -1,6 +1,6 @@
 # Tutorial: Delete a task
 
-Here you will learn here how to delete a task from your to-do list.
+Here you will learn how to delete a task from your to-do list.
 
 This tutorial takes about 10 minutes to complete.
 
@@ -38,4 +38,5 @@ Deleting a task uses a request with the (`DELETE`) method and the task's task ID
 Verify your request was successful by sending a GET All Tasks request to check that your task no longer appears as a response.
 
 ## Related pages
+
 * [Add a new task](add-a-new-task.md)

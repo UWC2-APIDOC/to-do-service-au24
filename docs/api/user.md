@@ -8,7 +8,7 @@ Base endpoint:
 
 ```shell
 
-{server_url}/users
+{base_url}/users
 ```
 
 Contains information about the users of the service.
