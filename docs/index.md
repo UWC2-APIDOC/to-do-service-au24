@@ -26,6 +26,7 @@ Here are some more overview pages that explain the To-Do Service and how to get 
 * [David Young's overview](overview_david.md)
 * [SophieL's overview](overview_SophieL.md)
 * [Wendy Fish's overview](Overview_wuf.md)
+* [Christine's overview](overview_cjoyce.md)
 
 ## Quickstart
 
