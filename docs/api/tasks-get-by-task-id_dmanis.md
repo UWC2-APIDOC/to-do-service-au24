@@ -8,7 +8,7 @@ The Get Task service fetches the details for a given task in the system.
 
 ## URL
 
-{server_url}/tasks/{id}
+{base_url}/tasks/{id}
 
 ## HTTP method
 
