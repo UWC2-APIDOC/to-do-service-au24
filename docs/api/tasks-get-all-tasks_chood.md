@@ -10,7 +10,7 @@ This method returns an array of [`task`](task.md) objects that contain all tasks
 
 ```shell
 
-{server_url}/tasks
+{base_url}/tasks
 ```
 
 ## Params
