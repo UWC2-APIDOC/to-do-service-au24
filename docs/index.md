@@ -49,7 +49,7 @@ After your system is ready, [tutorials](./tutorials.md) such as these show you h
 * [Add a new task](tutorials/add-a-new-task.md)
 * Change the due-date of a task
     * [tutorial_sy](tutorials/tutorial_sy.md)
-* [Delete a task _(coming soon)_](#tutorials)
+* [Delete a task - Jason](tutorials/new-tutorial-jdn.md)
 
 ## API reference docs
 
